@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedzimskiDev.TestcontainersIntro", "RedzimskiDev.TestcontainersIntro\RedzimskiDev.TestcontainersIntro.csproj", "{BB91CA44-3FA1-4601-8FFB-F0EF161D8965}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedzimskiDev.TestcontainersIntro.Tests", "RedzimskiDev.TestcontainersIntro.Tests\RedzimskiDev.TestcontainersIntro.Tests.csproj", "{F1A9DEF6-1FBA-4512-861B-95266E83EA59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB91CA44-3FA1-4601-8FFB-F0EF161D8965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB91CA44-3FA1-4601-8FFB-F0EF161D8965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB91CA44-3FA1-4601-8FFB-F0EF161D8965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB91CA44-3FA1-4601-8FFB-F0EF161D8965}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1A9DEF6-1FBA-4512-861B-95266E83EA59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1A9DEF6-1FBA-4512-861B-95266E83EA59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1A9DEF6-1FBA-4512-861B-95266E83EA59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1A9DEF6-1FBA-4512-861B-95266E83EA59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A20E98C-D30F-4B21-88D3-E32F3F4B135E}
+	EndGlobalSection
+EndGlobal
